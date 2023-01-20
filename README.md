@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Kaitlin :smile:
+- I’m currently working on my junior year of my aerospace engineering degree at Iowa State :rocket:
+- I’m currently learning how to code again! :computer:
+- ⚡ Fun fact: I play shortstop on the Iowa State Club Softball team :softball:
 <!--
 **kaitlinnathe/kaitlinnathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
